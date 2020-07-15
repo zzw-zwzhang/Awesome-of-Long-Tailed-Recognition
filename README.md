@@ -1,3 +1,3 @@
-# Long-tailed-Recognition
+# Long-Tailed-Recognition
 
 to do...
