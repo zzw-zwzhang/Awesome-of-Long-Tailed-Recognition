@@ -29,9 +29,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | `OS`          | `US`           | `CBS`        | `CLW`          | `SLW`        | `TL`        | `Other`        |
-|:----------- |:-----------------:|:------------------:|:---------------: |:-----------------:|:------------------:|:------------------:|:------------------:|
-| Explanation | Over Re-Sampling | Under Re-Sampling | Class-balanced Re-Sampling | Class-level Re-weighting | Sample-level Re-weighting | Transfer Learning     | other types     |
+| Type        | `OS`              | `US`              | `CBS`                      | `CLW`                    | `SLW`                     | `TL`                  | `Other`     |
+|:----------- |:-----------------:|:-----------------:|:-------------------------: |:------------------------:|:-------------------------:|:---------------------:|:-----------:|
+| Explanation | Over Re-Sampling  | Under Re-Sampling | Class-balanced Re-Sampling | Class-level Re-weighting | Sample-level Re-weighting | Transfer Learning     | other types |
 
 ### 2020
 
