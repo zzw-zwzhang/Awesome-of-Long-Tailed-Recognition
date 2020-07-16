@@ -9,6 +9,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### :high_brightness: Updated 2020-07-16
 
+---
 
 ## Table of Contents
 
