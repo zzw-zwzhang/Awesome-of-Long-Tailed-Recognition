@@ -12,13 +12,13 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Table of Contents
 
-- [Type of Long-tailed Recognition](#type-of-pruning)
+- [Type of Long-tailed Recognition](#type-of-long-tailed-recognition)
 
 - [Awesome Surveys](#awesome-surveys)
 
 - [Awesome Blogs](#awesome-blogs)
 
-- [Neural Architecture Search](#NAS)
+- [Long-tailed Recognition](#Long-tailed-Recognition)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
   - [2018 Venues](#2018)
@@ -44,8 +44,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Blogs
-- [AutoML info](http://automl.chalearn.org/) and [AutoML Freiburg-Hannover](https://www.automl.org/)
+- []() and []()
 
 
 ## Awesome Surveys
-- [AutoML info](http://automl.chalearn.org/) and [AutoML Freiburg-Hannover](https://www.automl.org/)
+- []() and []()
