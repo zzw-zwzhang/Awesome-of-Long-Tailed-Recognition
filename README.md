@@ -48,7 +48,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Domain Balancing: Face Recognition on Long-Tailed Domains](https://arxiv.org/pdf/2003.13791.pdf) | CVPR | `Other`     | -   |
 | [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/1912.02413.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/Megvii-Nanjing/BBN)  |
 | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding](https://arxiv.org/pdf/2002.10826.pdf) | CVPR | `TL`     | -   |
-| [Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR | ``     | -   |
+| [Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR | `Other`     | -   |
 | [Overcoming Classiﬁer Imbalance for Long-tail Object Detection with Balanced Group Softmax]() | CVPR | `Other`     | -   |
 | [M2m: Imbalanced Classification via Major-to-minor Translation](https://arxiv.org/pdf/2004.00431.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/alinlab/M2m)   |
 | [Deep Generative Model for Robust Imbalance Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) | CVPR | `Other`     | [TensorFlow(Author)](https://github.com/lvyilin/DGC)   |
@@ -59,7 +59,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) & [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
 
 
 ### 2018
