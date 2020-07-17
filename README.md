@@ -43,7 +43,6 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
 | [Learning From Multiple Experts_Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | ECCV | `Other`     | -   |
-| [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
 | [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | CVPR | `CLW`     | -   |
 | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | CVPR | `CLW & SLW`     | [PyTorch(Author)](https://github.com/tztztztztz/eql.detectron2)   |
 | [Domain Balancing: Face Recognition on Long-Tailed Domains](https://arxiv.org/pdf/2003.13791.pdf) | CVPR | `Other`     | -   |
@@ -51,8 +50,9 @@ Please feel free to pull requests or open an issue to add papers.
 | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding](https://arxiv.org/pdf/2002.10826.pdf) | CVPR | `TL`     | -   |
 | [Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR | ``     | -   |
 | [Overcoming Classiﬁer Imbalance for Long-tail Object Detection with Balanced Group Softmax]() | CVPR | ``     | -   |
-| []() | CVPR | ``     | -   |
-| []() | CVPR | ``     | -   |
+| [M2m: Imbalanced Classification via Major-to-minor Translation](https://arxiv.org/pdf/2004.00431.pdf) | CVPR | ``     | [PyTorch(Author)](https://github.com/alinlab/M2m)   |
+| [Deep Generative Model for Robust Imbalance Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) | CVPR | ``     | [TensorFlow(Author)](https://github.com/lvyilin/DGC)   |
+| [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
 | []() | CVPR | ``     | -   |
 | []() | CVPR | ``     | -   |
 | []() | CVPR | ``     | -   |
