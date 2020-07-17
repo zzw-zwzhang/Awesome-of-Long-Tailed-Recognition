@@ -42,6 +42,20 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title                                                                                                                            | Venue | Type    | Code |
 |:-------------------------------------------------------------------------------------------------------------------------------- |:-----:|:-------:|:----:|
+| [Learning From Multiple Experts_Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | ECCV | `Other`     | -   |
+| [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
+| [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | CVPR | `CLW`     | -   |
+| [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | CVPR | `CLW & SLW`     | [PyTorch(Author)](https://github.com/tztztztztz/eql.detectron2)   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | -   |
 
 
 ## Awesome Surveys
