@@ -59,7 +59,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) & [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
+| [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
 
 
 ### 2018
