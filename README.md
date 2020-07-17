@@ -67,7 +67,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Feature Transfer Learning for Face Recognition with Under-Represented Data](https://arxiv.org/pdf/1803.09014.pdf) | CVPR | `TL`     | [PyTorch(3rd)](https://github.com/PLLin/FTL_net)   |
 | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)   |
 | [Unequal-training for Deep Face Recognition with Long-tailed Noisy Data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf) | CVPR | ``     | [MxNet(Author)](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)   |
-| [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf) | ICCV | `S` & `W`     | -   |
+| [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf) | ICCV | `S` `W`     | -   |
 | [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | NeurIPS | `CLW`     | [PyTorch(Author)](https://github.com/kaidic/LDAM-DRW)   |
 | [Meta-Weight-Net_Learning an Explicit Mapping for Sample Weighting](https://arxiv.org/pdf/1902.07379.pdf) | NeurIPS | `SLW`     | [PyTorch(Author)](https://github.com/xjtushujun/meta-weight-net) [PyTorch(3rd)](https://github.com/robertcedergren/Meta-Weight-Net-Learning-an-Explicit-Mapping-For-Sample-Weighting)  |
 
