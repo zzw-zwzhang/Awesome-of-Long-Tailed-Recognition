@@ -58,6 +58,58 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | -   |
 
 
+
+### 2019
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+### 2018
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+### 2017
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+### 2016
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+### 2015
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+### Previous Venues
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+
+### arXiv
+
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
+| []() | CVPR | ``     | -   |
+
+
+
 ## Awesome Surveys
 - []() and []()
 
