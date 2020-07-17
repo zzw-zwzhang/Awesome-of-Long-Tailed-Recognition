@@ -46,8 +46,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
 | [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | CVPR | `CLW`     | -   |
 | [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | CVPR | `CLW & SLW`     | [PyTorch(Author)](https://github.com/tztztztztz/eql.detectron2)   |
-| []() | CVPR | ``     | -   |
-| []() | CVPR | ``     | -   |
+| [Domain Balancin: Face Recognition on Long-Tailed Domains](https://arxiv.org/pdf/2003.13791.pdf) | CVPR | `Other`     | -   |
+| [BBN_Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/1912.02413.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/Megvii-Nanjing/BBN)  |
 | []() | CVPR | ``     | -   |
 | []() | CVPR | ``     | -   |
 | []() | CVPR | ``     | -   |
