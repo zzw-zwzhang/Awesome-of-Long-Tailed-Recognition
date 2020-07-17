@@ -38,6 +38,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Over Sampling | Under Sampling | Class-balanced Sampling | Class-level Weighting | Sample-level Weighting | Transfer Learning | other types |
 
+
+
 ### 2020
 
 | Title    | Venue    | Type     | Code     |
@@ -55,46 +57,59 @@ Please feel free to pull requests or open an issue to add papers.
 | [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
 
 
+
 ### 2019
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
 | [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
+| [Striking the Right Balance with Uncertainty](https://arxiv.org/pdf/1901.07590.pdf) | CVPR | `CLW & SLW`     | -   |
+| [Feature Transfer Learning for Face Recognition with Under-Represented Data](https://arxiv.org/pdf/1803.09014.pdf) | CVPR | `TL`     | [PyTorch(3rd)](https://github.com/PLLin/FTL_net)   |
+| [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)   |
+| [Unequal-training for Deep Face Recognition with Long-tailed Noisy Data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf) | CVPR | ``     | [MxNet(Author)](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)   |
+| [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf) | ICCV | `S & W`     | -   |
+| [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | NeurIPS | `CLW`     | [PyTorch(Author)](https://github.com/kaidic/LDAM-DRW)   |
+| [Meta-Weight-Net_Learning an Explicit Mapping for Sample Weighting](https://arxiv.org/pdf/1902.07379.pdf) | NeurIPS | `SLW`     | [PyTorch(Author)](https://github.com/xjtushujun/meta-weight-net) [PyTorch(3rd)](https://github.com/robertcedergren/Meta-Weight-Net-Learning-an-Explicit-Mapping-For-Sample-Weighting)  |
+
 
 
 ### 2018
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
+
 
 
 ### 2017
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
+
 
 
 ### 2016
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
+
 
 
 ### 2015
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
+
 
 
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
 
 
 
@@ -102,12 +117,13 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | -   |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |
 
 
 
 ## Awesome Surveys
 - []() and []()
+
 
 
 ## Awesome Blogs
