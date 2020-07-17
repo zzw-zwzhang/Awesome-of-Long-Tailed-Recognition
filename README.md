@@ -15,10 +15,6 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Type of Long-tailed Recognition](#type-of-long-tailed-recognition)
 
-- [Awesome Surveys](#awesome-surveys)
-
-- [Awesome Blogs](#awesome-blogs)
-
 - [Long-tailed Recognition](#Long-tailed-Recognition)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
@@ -28,6 +24,10 @@ Please feel free to pull requests or open an issue to add papers.
   - [2015 Venues](#2015)
   - [Previous Venues](#2010-2014)
   - [arXiv](#arxiv)
+ 
+- [Awesome Surveys](#awesome-surveys)
+
+- [Awesome Blogs](#awesome-blogs)
 
 - [Learning from Imbalanced](#learning-from-imbalanced)
 
