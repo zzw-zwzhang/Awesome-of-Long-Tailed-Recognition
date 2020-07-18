@@ -29,7 +29,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Blogs](#awesome-blogs)
 
-- [Learning from Imbalanced](#learning-from-imbalanced)
+- [Imbalanced Learning](#imbalanced-learning)
 
 
 ### Type of Long-tailed Recognition
@@ -140,7 +140,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 
-## Learning from Imbalanced
+## Imbalanced Learning
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
 | [Learning from Imbalanced Data](https://www.sci-hub.pl/10.1109/tkde.2008.239) | TKDE | ``     | -   |
