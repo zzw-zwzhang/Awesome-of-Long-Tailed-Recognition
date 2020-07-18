@@ -67,6 +67,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Feature Transfer Learning for Face Recognition with Under-Represented Data](https://arxiv.org/pdf/1803.09014.pdf) | CVPR | `TL`     | [PyTorch(3rd)](https://github.com/PLLin/FTL_net)   |
 | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)   |
 | [Unequal-training for Deep Face Recognition with Long-tailed Noisy Data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf) | CVPR | `TL`     | [MxNet(Author)](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)   |
+| [Learning for Tail Label Data: A Label-Specific Feature Approach](https://www.ijcai.org/Proceedings/2019/0533.pdf) | IJCAI | `Other`     | -   |
 | [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf) | ICCV | `S` `W`     | -   |
 | [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | NeurIPS | `CLW`     | [PyTorch(Author)](https://github.com/kaidic/LDAM-DRW)   |
 | [Meta-Weight-Net_Learning an Explicit Mapping for Sample Weighting](https://arxiv.org/pdf/1902.07379.pdf) | NeurIPS | `SLW`     | [PyTorch(Author)](https://github.com/xjtushujun/meta-weight-net) [PyTorch(3rd)](https://github.com/robertcedergren/Meta-Weight-Net-Learning-an-Explicit-Mapping-For-Sample-Weighting)  |
@@ -79,11 +80,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|
 | [Large Scale Fine-Grained Categorization and Domain-Specific Transfer](https://arxiv.org/pdf/1806.06193.pdf) | CVPR | `TL`     | [TensorFlow(Author)](https://github.com/richardaecn/cvpr18-inaturalist-transfer)   |
 | [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/pdf/1803.09050.pdf) | ICML | `CLW`     | [TensorFlow(Author)](https://github.com/uber-research/learning-to-reweight-examples) [PyTorch(3rd)](https://github.com/danieltan07/learning-to-reweight-examples)  |
-| []() |  | ``     | [PyTorch(Author)]()   |
-| []() |  | ``     | [PyTorch(Author)]()   |
-| []() |  | ``     | [PyTorch(Author)]()   |
-| []() |  | ``     | [PyTorch(Author)]()   |
-| []() |  | ``     | [PyTorch(Author)]()   |
+| [Clustering and Learning from Imbalanced Data](https://arxiv.org/pdf/1811.00972.pdf) | NeurIPS-W | `OS`     | -   |
 
 
 
@@ -91,23 +88,26 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | [PyTorch(Author)]()   |
-
+| [Class Rectification Hard Mining for Imbalanced Deep Learning](https://arxiv.org/pdf/1712.03162.pdf) | ICCV | `CLW`     | -   |
+| [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf) | ICCV | `SLW`     | [PyTorch(Author)](https://github.com/facebookresearch/detectron2)   |
+| [Range Loss for Deep Face Recognition with Long-Tailed Training Data](https://arxiv.org/pdf/1611.08976.pdf) | ICCV | `SLW`     | [PyTorch(3rd)](https://github.com/shaoniangu/RangeLoss-Pytorch-ReID)   |
+| [Learning to Model the Tail](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf) | NeurIPS | `TL`     | [PyTorch(Author)]()   |
 
 
 ### 2016
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | [PyTorch(Author)]()   |
-
-
+| [Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution](https://arxiv.org/pdf/1601.05150.pdf) | CVPR | `Other`     | -   |
+| [Learning Deep Representation for Imbalanced Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR | `CBS`     | -   |
+| [Relay Backpropagation for Effective Learning of DCNN](https://arxiv.org/pdf/1512.05830.pdf) | ECCV | `CBS`     | -   |
+| [Learning to Learn_Model Regression Networks for Easy Small Sample Learning](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf) | ECCV | `TL`     | -   |
 
 ### 2015
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | [PyTorch(Author)]()   |
+| [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | ArXiv | `Other`     | -   |
 
 
 
@@ -115,7 +115,10 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | [PyTorch(Author)]()   |
+| [Inverse Random under Sampling for Class Imbalance Problem and its Application to Multi-label Classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320312001471?via%3Dihub) | PR | `US`     | -   |
+| [Classification of Imbalanced Data by Combining the Complementary Neural Network and SMOTE Algorithm](https://www.researchgate.net/publication/221140314_Classification_of_Imbalanced_Data_by_Combining_the_Complementary_Neural_Network_and_SMOTE_Algorithm) | ICONIP | `US`     | [PyTorch(Author)]()   |
+| [Borderline-SMOTE: A New Over-Sampling Method in Imblanced Data Sets Learning](https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf) | ICIC | `OS`     | -   |
+| [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf) | JAIR | `OS`     | -   |
 
 
 
@@ -136,3 +139,6 @@ Please feel free to pull requests or open an issue to add papers.
 - []() and []()
 
 
+
+## Learning from Imbalanced
+| [Learning from Imbalanced Data](https://www.sci-hub.pl/10.1109/tkde.2008.239) | TKDE | ``     | -   |
