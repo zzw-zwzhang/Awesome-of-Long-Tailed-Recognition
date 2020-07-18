@@ -107,7 +107,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | ArXiv | `Other`     | -   |
+| [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | arXiv | `Other`     | -   |
 
 
 
