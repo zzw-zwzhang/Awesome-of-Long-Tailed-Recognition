@@ -124,9 +124,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### arXiv
 
-| Title    | Venue    | Type     | Code     |
+| Title    | Date    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | CVPR | ``     | [PyTorch(Author)]()   |
+| []() | 2020.01.01 | ``     | [PyTorch(Author)]()   |
 
 
 
