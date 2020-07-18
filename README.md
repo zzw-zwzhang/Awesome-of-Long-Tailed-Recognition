@@ -141,4 +141,6 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Learning from Imbalanced
+| Title    | Venue    | Type     | Code     |
+|:-------- |:--------:|:--------:|:--------:|
 | [Learning from Imbalanced Data](https://www.sci-hub.pl/10.1109/tkde.2008.239) | TKDE | ``     | -   |
