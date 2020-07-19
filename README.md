@@ -54,7 +54,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Overcoming Classiﬁer Imbalance for Long-tail Object Detection with Balanced Group Softmax](https://arxiv.org/pdf/2006.10408.pdf) | CVPR | `Other`     | -   |
 | [M2m: Imbalanced Classification via Major-to-minor Translation](https://arxiv.org/pdf/2004.00431.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/alinlab/M2m)   |
 | [Deep Generative Model for Robust Imbalance Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) | CVPR | `Other`     | [TensorFlow(Author)](https://github.com/lvyilin/DGC)   |
-| []() | CVPR | `Other`     | -   |
+| [Learning to Segment the Tail](https://arxiv.org/pdf/2004.00900.pdf) | CVPR | `Other`     | -   |
 | [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
 
 
