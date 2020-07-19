@@ -127,7 +127,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| []() | 2020.01.01 | ``     | [PyTorch(Author)]()   |
+| [Long-Tailed Recognition Using Class-Balanced Experts]() | 2020.04.07 | ``     | -   |
+| [Long-Tailed Recognition Using Class-Balanced Experts]() | 2020.01.01 | ``     | [PyTorch(Author)]()   |
 
 
 
