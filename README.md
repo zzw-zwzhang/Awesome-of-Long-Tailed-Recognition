@@ -126,8 +126,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [Long-Tailed Recognition Using Class-Balanced Experts]() | 2020.04.07 | ``     | -   |
-| [Long-Tailed Recognition Using Class-Balanced Experts]() | 2020.01.01 | ``     | [PyTorch(Author)]()   |
+| [Long-Tailed Recognition Using Class-Balanced Experts](https://arxiv.org/pdf/2004.03706.pdf) | 2020.04.07 | ``     | -   |
+| [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | ``     | -   |
 | [Long-Tailed Recognition Using Class-Balanced Experts]() | 2020.01.01 | ``     | [PyTorch(Author)]()   |
 
 
