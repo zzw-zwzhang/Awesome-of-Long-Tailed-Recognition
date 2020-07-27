@@ -94,7 +94,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Class Rectification Hard Mining for Imbalanced Deep Learning](https://arxiv.org/pdf/1712.03162.pdf) | ICCV | `CLW`     | -   |
 | [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf) | ICCV | `SLW`     | [PyTorch(Author)](https://github.com/facebookresearch/detectron2)   |
 | [Range Loss for Deep Face Recognition with Long-Tailed Training Data](https://arxiv.org/pdf/1611.08976.pdf) | ICCV | `SLW`     | [PyTorch(3rd)](https://github.com/shaoniangu/RangeLoss-Pytorch-ReID)   |
-| [Learning to Model the Tail](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf) | NeurIPS | `TL`     | [PyTorch(Author)]()   |
+| [Learning to Model the Tail](https://papers.nips.cc/paper/7278-learning-to-model-the-tail.pdf) | NeurIPS | `TL`     | -   |
 
 
 ### 2016
