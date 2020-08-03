@@ -130,12 +130,16 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|
 | [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | 2015.01.29 | `Other`     | -   |   |
 | [Deep Active Learning over the Long Tail](https://arxiv.org/pdf/1711.00941.pdf) | 2017.11.02 | ``     | -   |   |
+| [Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss](https://arxiv.org/pdf/2004.00436.pdf) | 2020.03.25 | ``     | -   |   |
 | [Long-tail Learning with Class Descriptors](https://arxiv.org/pdf/2004.02235.pdf) | 2020.04.05 | ``     | [TensorFlow(Author)](https://github.com/dvirsamuel/DRAGON)
 | [Long-Tailed Recognition Using Class-Balanced Experts](https://arxiv.org/pdf/2004.03706.pdf) | 2020.04.07 | ``     | -   |
 | [Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization](https://arxiv.org/pdf/2006.15766.pdf) | 2020.06.29 | ``     | -   |   |
 | [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | ``     | -   |   |
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
-
+| []() | 2020.07.21 | ``     | -   |   |
+| []() | 2020.07.21 | ``     | -   |   |
+| []() | 2020.07.21 | ``     | -   |   |
+| []() | 2020.07.21 | ``     | -   |   |
 
 ## Awesome Surveys
 - []() and []()
