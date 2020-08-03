@@ -133,12 +133,12 @@ Please feel free to pull requests or open an issue to add papers.
 | [Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss](https://arxiv.org/pdf/2004.00436.pdf) | 2020.03.25 | ``     | -   |   |
 | [Long-tail Learning with Class Descriptors](https://arxiv.org/pdf/2004.02235.pdf) | 2020.04.05 | ``     | [TensorFlow(Author)](https://github.com/dvirsamuel/DRAGON)
 | [Long-Tailed Recognition Using Class-Balanced Experts](https://arxiv.org/pdf/2004.03706.pdf) | 2020.04.07 | ``     | -   |
+| [Interaction Matching for Long-Tail Multi-Label Classification](https://arxiv.org/pdf/2005.08805.pdf) | 2020.05.18 | ``     | -   |   |
+
 | [Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization](https://arxiv.org/pdf/2006.15766.pdf) | 2020.06.29 | ``     | -   |   |
 | [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | ``     | -   |   |
 | [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | 2020.07.14 | ``     | -   |   |
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
-| []() | 2020.07.21 | ``     | -   |   |
-| []() | 2020.07.21 | ``     | -   |   |
 | []() | 2020.07.21 | ``     | -   |   |
 
 ## Awesome Surveys
