@@ -136,7 +136,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Interaction Matching for Long-Tail Multi-Label Classification](https://arxiv.org/pdf/2005.08805.pdf) | 2020.05.18 | ``     | -   |   |
 | [EL: An Early-Exiting Framework for Long-tailed Classification](https://arxiv.org/pdf/2006.11979.pdf) | 2020.06.22 | ``     | -   |   |
 | [Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization](https://arxiv.org/pdf/2006.15766.pdf) | 2020.06.29 | ``     | -   |   |
-| [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | ``     | -   |   |
+| [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | `Aug`     | -   |   |
 | [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | 2020.07.14 | ``     | -   |   |
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
 | [SeismoGlow: Data Augmentation for the Class Imbalance Problem](https://arxiv.org/pdf/2007.12229.pdf) | 2020.07.23 | `Aug`     | -   |   |
