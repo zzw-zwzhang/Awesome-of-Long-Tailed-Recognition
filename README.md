@@ -139,7 +139,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | ``     | -   |   |
 | [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | 2020.07.14 | ``     | -   |   |
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
-| []() | 2020.07.21 | ``     | -   |   |
+| [SeismoGlow: Data Augmentation for the Class Imbalance Problem](https://arxiv.org/pdf/2007.12229.pdf) | 2020.07.23 | `Aug`     | -   |   |
+| [Meta Feature Modulator for Long-tailed Recognition](https://arxiv.org/pdf/2008.03428.pdf) | 2020.08.08 | `Meta`     | -   |   |
+| []() | 2020.08.10 | ``     | -   |   |
+
 
 ## Awesome Surveys
 - []() and []()
