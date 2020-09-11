@@ -43,6 +43,11 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
+| [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
+| [Seesaw Loss for Long-Tailed Instance](https://arxiv.org/pdf/2008.10032.pdf) | ECCV-W | `Other`     | -   |
+| [Balanced Activation for Long-tailed Visual Recognition](https://arxiv.org/pdf/2008.11037.pdf) | ECCV-W | `Other`     | -   |
+| [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | ECCV | `Other`     | [PyTorch(Author)](https://github.com/cdjkim/PRS)   |
 | [Feature Space Augmentation for Long-Tailed Data](https://arxiv.org/pdf/2008.03673.pdf) | ECCV | `Aug`     | -   |
 | [Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654.pdf) | ECCV | `CLW`     | [PyTorch(Author)](https://github.com/wutong16/DistributionBalancedLoss)   |
 | [Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier](https://arxiv.org/pdf/2007.09898.pdf) | ECCV | `Other`     | -   |
@@ -141,6 +146,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
 | [SeismoGlow: Data Augmentation for the Class Imbalance Problem](https://arxiv.org/pdf/2007.12229.pdf) | 2020.07.23 | `Aug`     | -   |   |
 | [Meta Feature Modulator for Long-tailed Recognition](https://arxiv.org/pdf/2008.03428.pdf) | 2020.08.08 | `Meta`     | -   |   |
+| []() | 2020.08.10 | ``     | -   |   |
+| []() | 2020.08.10 | ``     | -   |   |
+| []() | 2020.08.10 | ``     | -   |   |
+| []() | 2020.08.10 | ``     | -   |   |
 | []() | 2020.08.10 | ``     | -   |   |
 
 
