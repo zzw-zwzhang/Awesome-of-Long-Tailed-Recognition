@@ -43,8 +43,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
-| [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
 | [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
+| [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
 | [Seesaw Loss for Long-Tailed Instance](https://arxiv.org/pdf/2008.10032.pdf) | ECCV-W | `Other`     | -   |
 | [Balanced Activation for Long-tailed Visual Recognition](https://arxiv.org/pdf/2008.11037.pdf) | ECCV-W | `Other`     | -   |
 | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | ECCV | `Other`     | [PyTorch(Author)](https://github.com/cdjkim/PRS)   |
