@@ -41,8 +41,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### 2020
 
-| Title    | Venue    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
 | [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
 | [Seesaw Loss for Long-Tailed Instance](https://arxiv.org/pdf/2008.10032.pdf) | ECCV-W | `Other`     | -   |
@@ -62,7 +62,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [M2m: Imbalanced Classification via Major-to-minor Translation](https://arxiv.org/pdf/2004.00431.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/alinlab/M2m)   |
 | [Deep Generative Model for Robust Imbalance Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) | CVPR | `Other`     | [TensorFlow(Author)](https://github.com/lvyilin/DGC)   |
 | [Learning to Segment the Tail](https://arxiv.org/pdf/2004.00900.pdf) | CVPR | `Other`     | -   |
-| [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`     | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |
+| [Decoupling Representation and Classifier for Long-Tailed Recognition](https://arxiv.org/pdf/1910.09217.pdf) | ICLR | `Other`  | [PyTorch(Author)](https://github.com/facebookresearch/classifier-balancing)   |  | ***   |
 
 
 
