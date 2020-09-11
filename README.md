@@ -122,7 +122,7 @@ Please feel free to pull requests or open an issue to add papers.
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
-|:-------- |:--------:|:--------:|:--------:|
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Inverse Random under Sampling for Class Imbalance Problem and its Application to Multi-label Classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320312001471?via%3Dihub) | PR | `US`     | -   |
 | [Classification of Imbalanced Data by Combining the Complementary Neural Network and SMOTE Algorithm](https://www.researchgate.net/publication/221140314_Classification_of_Imbalanced_Data_by_Combining_the_Complementary_Neural_Network_and_SMOTE_Algorithm) | ICONIP | `US`     | [PyTorch(Author)]()   |
 | [Borderline-SMOTE: A New Over-Sampling Method in Imblanced Data Sets Learning](https://sci2s.ugr.es/keel/keel-dataset/pdfs/2005-Han-LNCS.pdf) | ICIC | `OS`     | -   |
