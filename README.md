@@ -1,13 +1,13 @@
 # Awesome Long-tailed Recognition [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![](https://img.shields.io/badge/Number-52-green)
+![](https://img.shields.io/badge/Number-56-green)
 
 A curated list of long-tailed recognition and related resources.
 
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2020-08-13
+### :high_brightness: Updated 2020-09-12
 
 ---
 
