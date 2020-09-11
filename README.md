@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### 2020
 
-| Title    | Venue    | Type     | Code     | Star     |
+| Title    | Venue    | Type     | Code     | Stars     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
 | [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
@@ -95,8 +95,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### 2017
 
-| Title    | Venue    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Class Rectification Hard Mining for Imbalanced Deep Learning](https://arxiv.org/pdf/1712.03162.pdf) | ICCV | `CLW`     | -   |
 | [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf) | ICCV | `SLW`     | [PyTorch(Author)](https://github.com/facebookresearch/detectron2)   |
 | [Range Loss for Deep Face Recognition with Long-Tailed Training Data](https://arxiv.org/pdf/1611.08976.pdf) | ICCV | `SLW`     | [PyTorch(3rd)](https://github.com/shaoniangu/RangeLoss-Pytorch-ReID)   |
@@ -105,23 +105,23 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### 2016
 
-| Title    | Venue    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution](https://arxiv.org/pdf/1601.05150.pdf) | CVPR | `Other`     | -   |
 | [Learning Deep Representation for Imbalanced Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR | `CBS`     | -   |
 | [Learning to Learn: Model Regression Networks for Easy Small Sample Learning](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf) | ECCV | `TL`     | -   |
 
 ### 2015
 
-| Title    | Venue    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() |  | ``     | -   |
 
 
 
 ### Previous Venues
 
-| Title    | Venue    | Type     | Code     |
+| Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|
 | [Inverse Random under Sampling for Class Imbalance Problem and its Application to Multi-label Classification](https://www.sciencedirect.com/science/article/abs/pii/S0031320312001471?via%3Dihub) | PR | `US`     | -   |
 | [Classification of Imbalanced Data by Combining the Complementary Neural Network and SMOTE Algorithm](https://www.researchgate.net/publication/221140314_Classification_of_Imbalanced_Data_by_Combining_the_Complementary_Neural_Network_and_SMOTE_Algorithm) | ICONIP | `US`     | [PyTorch(Author)]()   |
@@ -132,8 +132,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### arXiv
 
-| Title    | Date    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
+| Title    | Date     | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | 2015.01.29 | `Other`     | -   |   |
 | [Deep Active Learning over the Long Tail](https://arxiv.org/pdf/1711.00941.pdf) | 2017.11.02 | ``     | -   |   |
 | [Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss](https://arxiv.org/pdf/2004.00436.pdf) | 2020.03.25 | ``     | -   |   |
