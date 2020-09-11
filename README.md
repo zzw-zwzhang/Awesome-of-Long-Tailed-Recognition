@@ -70,6 +70,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     |
 |:-------- |:--------:|:--------:|:--------:|
+| [The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation](https://arxiv.org/pdf/2007.11978.pdf) | ECCV | `Other`    | -   |
 | [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
 | [Striking the Right Balance with Uncertainty](https://arxiv.org/pdf/1901.07590.pdf) | CVPR | `CLW` `SLW`     | -   |
 | [Feature Transfer Learning for Face Recognition with Under-Represented Data](https://arxiv.org/pdf/1803.09014.pdf) | CVPR | `TL`     | [PyTorch(3rd)](https://github.com/PLLin/FTL_net)   |
