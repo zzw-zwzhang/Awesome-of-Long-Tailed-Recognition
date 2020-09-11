@@ -49,13 +49,13 @@ Please feel free to pull requests or open an issue to add papers.
 | [Balanced Activation for Long-tailed Visual Recognition](https://arxiv.org/pdf/2008.11037.pdf) | ECCV-W | `Other`     | -   |
 | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | ECCV | `Other`     | [PyTorch(Author)](https://github.com/cdjkim/PRS)   |
 | [Feature Space Augmentation for Long-Tailed Data](https://arxiv.org/pdf/2008.03673.pdf) | ECCV | `Aug`     | -   |
-| [Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654.pdf) | ECCV | `CLW`     | [PyTorch(Author)](https://github.com/wutong16/DistributionBalancedLoss)   |
+| [Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654.pdf) | ECCV | `CLW`     | [PyTorch(Author)](https://github.com/wutong16/DistributionBalancedLoss)   | `91`  |
 | [Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier](https://arxiv.org/pdf/2007.09898.pdf) | ECCV | `Other`     | -   |
 | [Learning From Multiple Experts_Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | ECCV | `TL`     | -   |
 | [Rethinking Class-Balanced Methods for Long-Tailed Visual Recognition from a Domain Adaptation Perspective](https://arxiv.org/pdf/2003.10780.pdf) | CVPR | `CLW`     | -   |
-| [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | CVPR | `CLW` `SLW`     | [PyTorch(Author)](https://github.com/tztztztztz/eql.detectron2)   |
+| [Equalization Loss for Long-Tailed Object Recognition](https://arxiv.org/pdf/2003.05176.pdf) | CVPR | `CLW` `SLW`     | [PyTorch(Author)](https://github.com/tztztztztz/eql.detectron2)   | `116`  |
 | [Domain Balancing: Face Recognition on Long-Tailed Domains](https://arxiv.org/pdf/2003.13791.pdf) | CVPR | `Other`     | -   |
-| [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/1912.02413.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/Megvii-Nanjing/BBN)  |
+| [BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition](https://arxiv.org/pdf/1912.02413.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/Megvii-Nanjing/BBN)  | `360`  |
 | [Deep Representation Learning on Long-tailed Data: A Learnable Embedding](https://arxiv.org/pdf/2002.10826.pdf) | CVPR | `TL`     | -   |
 | [Inflated Episodic Memory with Region Self-Attention for Long-Tailed Visual Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_Inflated_Episodic_Memory_With_Region_Self-Attention_for_Long-Tailed_Visual_Recognition_CVPR_2020_paper.pdf) | CVPR | `Other`     | -   |
 | [Overcoming Classiﬁer Imbalance for Long-tail Object Detection with Balanced Group Softmax](https://arxiv.org/pdf/2006.10408.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/FishYuLi/BalancedGroupSoftmax)   |
@@ -71,24 +71,24 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation](https://arxiv.org/pdf/2007.11978.pdf) | ECCV | `Other`    | -   |
-| [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  |
+| [Class-Balanced Loss Based on Effective Number of Samples](https://arxiv.org/pdf/1901.05555.pdf) | CVPR | `CLR`     | [TensorFlow(Author)](https://github.com/richardaecn/class-balanced-loss) [PyTorch(3rd)](https://github.com/vandit15/Class-balanced-loss-pytorch)  | `390/409`  |
 | [Striking the Right Balance with Uncertainty](https://arxiv.org/pdf/1901.07590.pdf) | CVPR | `CLW` `SLW`     | -   |
 | [Feature Transfer Learning for Face Recognition with Under-Represented Data](https://arxiv.org/pdf/1803.09014.pdf) | CVPR | `TL`     | [PyTorch(3rd)](https://github.com/PLLin/FTL_net)   |
 | [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/pdf/1904.05160.pdf) | CVPR | `TL`     | [PyTorch(Author)](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)   | `523`  |
 | [Unequal-training for Deep Face Recognition with Long-tailed Noisy Data](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf) | CVPR | `TL`     | [MxNet(Author)](https://github.com/zhongyy/Unequal-Training-for-Deep-Face-Recognition-with-Long-Tailed-Noisy-Data)   |
 | [Learning for Tail Label Data: A Label-Specific Feature Approach](https://www.ijcai.org/Proceedings/2019/0533.pdf) | IJCAI | `Other`     | -   |
 | [Dynamic Curriculum Learning for Imbalanced Data Classification](https://arxiv.org/pdf/1901.06783.pdf) | ICCV | `S` `W`     | -   |
-| [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | NeurIPS | `CLW`     | [PyTorch(Author)](https://github.com/kaidic/LDAM-DRW)   |
-| [Meta-Weight-Net_Learning an Explicit Mapping for Sample Weighting](https://arxiv.org/pdf/1902.07379.pdf) | NeurIPS | `SLW`     | [PyTorch(Author)](https://github.com/xjtushujun/meta-weight-net) [PyTorch(3rd)](https://github.com/robertcedergren/Meta-Weight-Net-Learning-an-Explicit-Mapping-For-Sample-Weighting)  |
+| [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://arxiv.org/pdf/1906.07413.pdf) | NeurIPS | `CLW`     | [PyTorch(Author)](https://github.com/kaidic/LDAM-DRW)   | `233`  |
+| [Meta-Weight-Net_Learning an Explicit Mapping for Sample Weighting](https://arxiv.org/pdf/1902.07379.pdf) | NeurIPS | `SLW`     | [PyTorch(Author)](https://github.com/xjtushujun/meta-weight-net) [PyTorch(3rd)](https://github.com/robertcedergren/Meta-Weight-Net-Learning-an-Explicit-Mapping-For-Sample-Weighting)  | `133/1`  |
 
 
 
 ### 2018
 
-| Title    | Venue    | Type     | Code     |
-|:-------- |:--------:|:--------:|:--------:|
-| [Large Scale Fine-Grained Categorization and Domain-Specific Transfer](https://arxiv.org/pdf/1806.06193.pdf) | CVPR | `TL`     | [TensorFlow(Author)](https://github.com/richardaecn/cvpr18-inaturalist-transfer)   |
-| [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/pdf/1803.09050.pdf) | ICML | `CLW`     | [TensorFlow(Author)](https://github.com/uber-research/learning-to-reweight-examples) [PyTorch(3rd)](https://github.com/danieltan07/learning-to-reweight-examples)  |
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Large Scale Fine-Grained Categorization and Domain-Specific Transfer](https://arxiv.org/pdf/1806.06193.pdf) | CVPR | `TL`     | [TensorFlow(Author)](https://github.com/richardaecn/cvpr18-inaturalist-transfer)   | `146`  |
+| [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/pdf/1803.09050.pdf) | ICML | `CLW`     | [TensorFlow(Author)](https://github.com/uber-research/learning-to-reweight-examples) [PyTorch(3rd)](https://github.com/danieltan07/learning-to-reweight-examples)  | `188/222`  |
 | [Clustering and Learning from Imbalanced Data](https://arxiv.org/pdf/1811.00972.pdf) | NeurIPS-W | `OS`     | -   |
 
 
