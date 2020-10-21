@@ -43,12 +43,15 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | NeurIPS | `Other`     | -   |
+| [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/pdf/2009.12991.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)   |
 | [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
 | [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
 | [Seesaw Loss for Long-Tailed Instance](https://arxiv.org/pdf/2008.10032.pdf) | ECCV-W | `Other`     | -   |
 | [Balanced Activation for Long-tailed Visual Recognition](https://arxiv.org/pdf/2008.11037.pdf) | ECCV-W | `Other`     | -   |
 | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | ECCV | `Other`     | [PyTorch(Author)](https://github.com/cdjkim/PRS)   |
 | [Feature Space Augmentation for Long-Tailed Data](https://arxiv.org/pdf/2008.03673.pdf) | ECCV | `Aug`     | -   |
+| [The Devil is in Classification A Simple Framework for Long-tail Instance Segmentation](https://arxiv.org/pdf/2007.11978.pdf) | ECCV | `Aug`     | -   |
 | [Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets](https://arxiv.org/pdf/2007.09654.pdf) | ECCV | `CLW`     | [PyTorch(Author)](https://github.com/wutong16/DistributionBalancedLoss)   | `91`  |
 | [Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier](https://arxiv.org/pdf/2007.09898.pdf) | ECCV | `Other`     | -   |
 | [Learning From Multiple Experts_Self-paced Knowledge Distillation for Long-tailed Classification](https://arxiv.org/pdf/2001.01536.pdf) | ECCV | `TL`     | -   |
