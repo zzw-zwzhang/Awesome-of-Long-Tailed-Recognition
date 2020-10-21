@@ -1,13 +1,13 @@
 # Awesome Long-tailed Recognition [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![](https://img.shields.io/badge/Number-56-green)
+![](https://img.shields.io/badge/Number-60-green)
 
 A curated list of long-tailed recognition and related resources.
 
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2020-09-12
+### :high_brightness: Updated 2020-10-21
 
 ---
 
@@ -16,6 +16,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Type of Long-tailed Recognition](#type-of-long-tailed-recognition)
 
 - [Long-tailed Recognition](#Long-tailed-Recognition)
+  - [2021 Venues](#2021)
   - [2020 Venues](#2020)
   - [2019 Venues](#2019)
   - [2018 Venues](#2018)
@@ -37,6 +38,16 @@ Please feel free to pull requests or open an issue to add papers.
 | Type        | `OS`          | `US`           | `CBS`                   | `CLW`                 | `SLW`                  | `TL`              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Over Sampling | Under Sampling | Class-balanced Sampling | Class-level Weighting | Sample-level Weighting | Transfer Learning | other types |
+
+
+
+### 2021
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR | `Other`     | -   |
+
+
 
 
 ### 2020
@@ -146,7 +157,6 @@ Please feel free to pull requests or open an issue to add papers.
 | [EL: An Early-Exiting Framework for Long-tailed Classification](https://arxiv.org/pdf/2006.11979.pdf) | 2020.06.22 | ``     | -   |   |
 | [Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization](https://arxiv.org/pdf/2006.15766.pdf) | 2020.06.29 | ``     | -   |   |
 | [Remix: Rebalanced Mixup](https://arxiv.org/pdf/2007.03943.pdf) | 2020.07.08 | `Aug`     | -   |   |
-| [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | 2020.07.14 | ``     | -   |   |
 | [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | 2020.07.21 | ``     | -   |   |
 | [SeismoGlow: Data Augmentation for the Class Imbalance Problem](https://arxiv.org/pdf/2007.12229.pdf) | 2020.07.23 | `Aug`     | -   |   |
 | [Meta Feature Modulator for Long-tailed Recognition](https://arxiv.org/pdf/2008.03428.pdf) | 2020.08.08 | `Meta`     | -   |   |
