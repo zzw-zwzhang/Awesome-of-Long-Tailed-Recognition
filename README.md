@@ -22,7 +22,6 @@ Please feel free to pull requests or open an issue to add papers.
   - [2018 Venues](#2018)
   - [2017 Venues](#2017)
   - [2016 Venues](#2016)
-  - [2015 Venues](#2015)
   - [Previous Venues](#2010-2014)
   - [arXiv](#arxiv)
  
@@ -125,12 +124,6 @@ Please feel free to pull requests or open an issue to add papers.
 | [Factors in Finetuning Deep Model for Object Detection with Long-tail Distribution](https://arxiv.org/pdf/1601.05150.pdf) | CVPR | `Other`     | -   |
 | [Learning Deep Representation for Imbalanced Classification](https://openaccess.thecvf.com/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf) | CVPR | `CBS`     | -   |
 | [Learning to Learn: Model Regression Networks for Easy Small Sample Learning](https://www.ri.cmu.edu/pub_files/2016/10/yuxiongw_eccv16_learntolearn.pdf) | ECCV | `TL`     | -   |
-
-### 2015
-
-| Title    | Venue    | Type     | Code     | Star     |
-|:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() |  | ``     | -   |
 
 
 
