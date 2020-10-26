@@ -53,8 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/pdf/2006.07529.pdf) | NeurIPS | `Other` | [PyTorch(Author)](https://github.com/YyzHarry/imbalanced-semi-self)   |  `153`  |
-| [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](
-https://github.com/jiawei-ren/BalancedMetaSoftmax)   |
+| [Balanced Meta-Softmax for Long-Tailed Visual Recognition](https://arxiv.org/pdf/2007.10740.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/jiawei-ren/BalancedMetaSoftmax)   |
 | [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/pdf/2009.12991.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)   |
 | [Forest R-CNN: Large-Vocabulary Long-Tailed Object Detection and Instance Segmentation](https://arxiv.org/pdf/2008.05676.pdf) | ACM-MM | `Other`     | [PyTorch(Author)](https://github.com/JialianW/Forest_RCNN)   |
 | [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf) | ECCV-W | `Other`     | [PyTorch(Author)](https://github.com/AadSah/ImbalanceCycleGAN)   |
