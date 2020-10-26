@@ -143,6 +143,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Convolution and Convolution-root Properties of Long-tailed Distributions](https://arxiv.org/pdf/1501.07458.pdf) | 2015.01.29 | `Other`     | -   |   |
 | [Deep Active Learning over the Long Tail](https://arxiv.org/pdf/1711.00941.pdf) | 2017.11.02 | ``     | -   |   |
+| [Adjusting Decision Boundary for Class Imbalanced Learning](https://arxiv.org/pdf/1912.01857.pdf) | 2019.12.04 | ``     | [Pytorch(Author)](https://github.com/feidfoe/AdjustBnd4Imbalance)
 | [Long-tail Visual Relationship Recognition with a Visiolinguistic Hubless Loss](https://arxiv.org/pdf/2004.00436.pdf) | 2020.03.25 | ``     | -   |   |
 | [Long-tail Learning with Class Descriptors](https://arxiv.org/pdf/2004.02235.pdf) | 2020.04.05 | ``     | [TensorFlow(Author)](https://github.com/dvirsamuel/DRAGON)
 | [Long-Tailed Recognition Using Class-Balanced Experts](https://arxiv.org/pdf/2004.03706.pdf) | 2020.04.07 | ``     | -   |
