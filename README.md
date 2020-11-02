@@ -44,7 +44,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR | `Other`     | -   |
+[Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR | `CLW`     | -   |
 
 
 
