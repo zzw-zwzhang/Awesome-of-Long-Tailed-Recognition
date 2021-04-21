@@ -45,6 +45,17 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR | `CLW`     | -   |
+[LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | ICLR | `Other`     | -   |
+[Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | AAAI | `Other`     | -   |
+[PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/pdf/2103.02140.pdf) | CVPR | `CLW`     | -   |
+[Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/pdf/2103.16370.pdf) | CVPR | `Other`     | -   |
+[Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267) | CVPR | `Other`     | -   |
+[Improving Calibration for Long-Tailed Recognition](https://arxiv.org/pdf/2104.00466.pdf) | CVPR | `Other`     | -   |
+
+
+
+
+
 
 
 
