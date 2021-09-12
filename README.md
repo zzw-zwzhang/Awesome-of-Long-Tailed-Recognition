@@ -10,7 +10,7 @@ Please feel free to pull requests or open an issue to add papers.
 ### :high_brightness: Updated 2021-05-15
 
 ## Please look forward to our new interesting work!
-[You Only Need End-to-End Training for Long-tailed Recognition](https://github.com/zzw-zwzhang/Yoneed)
+[Yoneed: You Only Need End-to-End Training for Long-tailed Recognition](https://github.com/zzw-zwzhang/Yoneed)
 
 ---
 
