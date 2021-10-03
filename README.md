@@ -7,7 +7,7 @@ A curated list of long-tailed recognition and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-09-12
+### :high_brightness: Updated 2021-10-03
 
 ## Please look forward to our new interesting work!
 
@@ -43,12 +43,13 @@ Please feel free to pull requests or open an issue to add papers.
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Over Sampling | Under Sampling | Class-balanced Sampling | Class-level Weighting | Sample-level Weighting | Transfer Learning | other types |
 
-
+Label-Imbalanced and Group-Sensitive Classification under Overparameterization
 
 ### 2021
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+[Label-Imbalanced and Group-Sensitive Classification under Overparameterization](https://arxiv.org/pdf/2103.01550.pdf) | NeurIPS | `CLW`     | -   |
 [Long-tail Learning via Logit Adjustment](https://arxiv.org/pdf/2007.07314.pdf) | ICLR | `CLW`     | -   |
 [LONG-TAILED RECOGNITION BY ROUTING DIVERSE DISTRIBUTION-AWARE EXPERTS](https://arxiv.org/pdf/2010.01809.pdf) | ICLR | `Other`     | -   |
 [Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks](https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf) | AAAI | `Other`     | -   |
