@@ -11,8 +11,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Please look forward to our new interesting work!
 
-### Yoneed
-[You Only Need End-to-End Training for Long-tailed Recognition](https://github.com/zzw-zwzhang/Yoneed)
+# ([You Only Need End-to-End Training for Long-tailed Recognition](https://github.com/zzw-zwzhang/Yoneed))
 
 ---
 
