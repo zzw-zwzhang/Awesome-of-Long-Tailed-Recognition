@@ -11,7 +11,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Please look forward to our new interesting work!
 
-<font color=red> Yoneed</font> [You Only Need End-to-End Training for Long-tailed Recognition](https://github.com/zzw-zwzhang/Yoneed) [[arXiv](https://arxiv.org/pdf/2112.05958.pdf)]
+<font color=red> Yoneed: You Only Need End-to-End Training for Long-tailed Recognition</font> 
+
+[code](https://github.com/zzw-zwzhang/Yoneed) [[arXiv](https://arxiv.org/pdf/2112.05958.pdf)]
 
 ---
 
