@@ -38,7 +38,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation | Over Sampling | Under Sampling | Class-balanced Sampling | Class-level Weighting | Sample-level Weighting | Transfer Learning | other types |
 
-Label-Imbalanced and Group-Sensitive Classification under Overparameterization
+
 
 ### 2021
 
